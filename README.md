@@ -1,6 +1,6 @@
 Jonnathan Segura
 
-Soy un desarrollador de software en formación con enfoque en Java y desarrollo backend. Actualmente fortalezco mis habilidades en lógica de programación, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
+Soy desarrollador de software en formación con enfoque en Java y desarrollo backend. Actualmente fortalezco mis habilidades en lógica de programación, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
 
 Busco consolidar mi experiencia como desarrollador backend y aportar valor a proyectos donde la calidad del código, la organización y la claridad técnica sean fundamentales.
 
