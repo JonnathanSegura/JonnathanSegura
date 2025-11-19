@@ -1,67 +1,83 @@
-Soy Jonnathan Rosero Segura
+Jonnathan Segura
 
-Desarrollador de software en formación, apasionado por la programación, la tecnología y la construcción de soluciones que generen impacto real. Actualmente continúo fortaleciendo mis bases en Java, Spring Boot, estructuras de datos, lógica de programación y buenas prácticas de desarrollo.
+Soy un desarrollador de software en formación con enfoque en Java y desarrollo backend. Actualmente fortalezco mis habilidades en lógica de programación, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
 
-Me gusta aprender, crear proyectos funcionales y mejorar continuamente mis habilidades técnicas y profesionales.
+Busco consolidar mi experiencia como desarrollador backend y aportar valor a proyectos donde la calidad del código, la organización y la claridad técnica sean fundamentales.
 
-Tecnologías y herramientas
+Tecnologías
 
-✔ Lenguajes: Java, Python
-✔ Frameworks: Spring Boot
-✔ Bases de datos: MySQL (aprendiendo), H2
-✔ Herramientas: Git, GitHub, IntelliJ IDEA, Postman
-✔ Metodologías: Buenas prácticas, razonamiento algorítmico, pruebas manuales, control de versiones
+Java 17
+
+Spring Boot
+
+Git y GitHub
+
+Programación orientada a objetos
+
+Gradle
+
+SQL básico
+
+IntelliJ IDEA
+
+Postman
+
+Fundamentos de algoritmos y estructuras de datos
 
 Proyectos destacados
-Gestor de Tareas – CRUD con Spring Boot
 
-API REST completa para crear, listar, actualizar y eliminar tareas.
- Repositorio: tasks_crud_springboot
+tasks_crud_springboot
 
-Conceptos Básicos de Programación en Java
+Sistema CRUD de gestión de tareas desarrollado con Spring Boot. Incluye creación, consulta, actualización y eliminación de tareas a través de una API REST.
+Repositorio: https://github.com/JonnathanSegura/tasks_crud_springboot
 
-Ejercicios esenciales del lenguaje: operaciones, lógica básica y primeras estructuras.
- Repositorio: conceptos-basicos-programacion-java
+conceptos-basicos-programacion-java
 
-Condicionales y Bucles en Java
+Conjunto de ejercicios que cubren fundamentos del lenguaje Java: operaciones, tipos de datos, estructuras de decisión y lógica básica.
+Repositorio: https://github.com/JonnathanSegura/conceptos-basicos-programacion-java
 
-Ejercicios que refuerzan lógica, ciclos y estructuras condicionales.
-  Repositorio: condicionales-y-bucles
+condicionales-y-bucles
 
-Arrays en Java
+Ejercicios prácticos en Java para reforzar estructuras condicionales y diferentes tipos de bucles, aplicando lógica y control de flujo.
+Repositorio: https://github.com/JonnathanSegura/condicionales-y-bucles
 
-Proyectos algorítmicos como Minesweeper, Thue-Morse y distribuciones discretas.
-  Repositorio: arrays
+arrays
 
-Objetivos profesionales
-
-Convertirme en desarrollador backend especializado en Java.
-
-Dominar Spring Boot, bases de datos y arquitectura de software.
-
-Construir proyectos reales para portafolio profesional.
-
-Conseguir mi primera oportunidad laboral en desarrollo de software.
+Programas en Java que implementan ejercicios de probabilidad, lógica y generación de secuencias como Minesweeper, Thue–Morse y distribuciones discretas.
+Repositorio: https://github.com/JonnathanSegura/arrays
 
 Rol actual
 
-Desarrollador en proceso de formación (Java / Spring Boot)
+Desarrollador de software en formación, con experiencia práctica en proyectos Java y en el desarrollo de aplicaciones backend. Actualmente continúo fortaleciendo mis habilidades técnicas como parte de mi proceso de formación en el SENA y en cursos complementarios de desarrollo de software.
 
-Estudiante de Desarrollo de Software — SENA
+Objetivos profesionales
 
-Redes y contacto
+Consolidar experiencia como desarrollador backend con Java y Spring Boot.
 
-LinkedIn:
-linkedin.com/in/jonnathan-rosero-segura-489062274
+Profundizar en el uso de bases de datos relacionales y patrones de diseño.
 
-GitHub:
-JonnathanSegura
+Desarrollar proyectos más complejos orientados a microservicios y arquitectura limpia.
 
-  Correo:
-jonnathansegura2404@gmail.com
+Certificaciones
 
-  Un poco sobre mí
+Formación en análisis y desarrollo de software (SENA actualmente)
 
-Soy una persona persistente, disciplinada y con gran motivación por seguir creciendo en el mundo del desarrollo. Disfruto aprender desde cero, trabajar en proyectos prácticos y construir mi portafolio con bases sólidas.
+Metodología de la programación de sistemas informáticos (SENA)
 
-Gracias por visitar mi perfil
+Otros cursos complementarios en progreso
+
+Experiencia laboral relevante
+
+Experiencia en desarrollo de software a través de proyectos académicos y personales publicados en GitHub.
+
+Realización de etapa productiva como desarrollador en Thomas Greg and Sons (TPS), donde pongo en práctica habilidades técnicas en proyectos reales.
+
+Contacto
+
+LinkedIn: https://www.linkedin.com/in/jonnathan-rosero-segura-489062274
+
+GitHub: https://github.com/JonnathanSegura
+
+Correo: (jonnathansegura2404@gmail.com)
+
+ 
