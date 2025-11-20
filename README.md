@@ -1,10 +1,12 @@
 Jonnathan Segura
 
-Desarrollador de software en formación. Actualmente fortalezco mis habilidades en lógica de programación, programacion en lenguajes como java y python, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
+Soy desarrollador de software en formación, con enfoque en Java, Python y desarrollo backend. Actualmente fortalezco mis habilidades en lógica de programación, estructuras de datos, desarrollo de APIs con Spring Boot, SQL básico y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos con responsabilidad y orientación a resultados.
 
-Busco consolidar mi experiencia como desarrollador y aportar valor a proyectos donde la calidad del código, la organización y la claridad técnica sean fundamentales.
+Como estudiante del programa Tecnológico en Análisis y Desarrollo de Software del SENA y desarrollador en etapa productiva en Thomas Greg & Sons (TPS), he adquirido experiencia práctica en proyectos reales, aplicando principios de programación orientada a objetos, control de versiones con Git/GitHub y construcción de aplicaciones web y de backend. Complemento mi formación con proyectos personales y académicos enfocados en la creación de soluciones funcionales, organizadas y de calidad.
 
-Tecnologías
+Busco consolidar mi experiencia como desarrollador, aportar valor a proyectos donde la claridad técnica, el código limpio y la organización sean fundamentales, y continuar avanzando hacia arquitecturas más complejas como microservicios, patrones de diseño y desarrollo de aplicaciones escalables.
+
+Tecnologías y herramientas
 
 Java 17
 
@@ -12,57 +14,53 @@ Python
 
 Spring Boot
 
+SQL básico
+
 Git y GitHub
 
 Programación orientada a objetos
 
-SQL básico
+Fundamentos de algoritmos y estructuras de datos
 
 IntelliJ IDEA
 
 Postman
 
-Fundamentos de algoritmos y estructuras de datos
+HTML y primeros pasos en React
 
 Proyectos destacados
 
 tasks_crud_springboot
-
-Sistema CRUD de gestión de tareas desarrollado con Spring Boot. Incluye creación, consulta, actualización y eliminación de tareas a través de una API REST.
+API REST para gestión de tareas con Spring Boot (CRUD completo).
 Repositorio: https://github.com/JonnathanSegura/tasks_crud_springboot
 
 conceptos-basicos-programacion-java
-
-Conjunto de ejercicios que cubren fundamentos del lenguaje Java: operaciones, tipos de datos, estructuras de decisión y lógica básica.
+Ejercicios que cubren fundamentos del lenguaje Java: operaciones, tipos de datos y lógica básica.
 Repositorio: https://github.com/JonnathanSegura/conceptos-basicos-programacion-java
 
 condicionales-y-bucles
-
-Ejercicios prácticos en Java para reforzar estructuras condicionales y diferentes tipos de bucles, aplicando lógica y control de flujo.
+Ejercicios prácticos para reforzar estructuras condicionales y bucles.
 Repositorio: https://github.com/JonnathanSegura/condicionales-y-bucles
 
 arrays
-
-Programas en Java que implementan ejercicios de probabilidad, lógica y generación de secuencias como Minesweeper, Thue–Morse y distribuciones discretas.
+Programas en Java que implementan ejercicios de lógica, probabilidad y generación de secuencias.
 Repositorio: https://github.com/JonnathanSegura/arrays
-
-Rol actual
-
-Desarrollador de software en formación, con experiencia práctica en proyectos Java y en el desarrollo de aplicaciones backend. Actualmente continúo fortaleciendo mis habilidades técnicas como parte de mi proceso de formación en el SENA y en cursos complementarios de desarrollo de software.
 
 Objetivos profesionales
 
-Consolidar mi experiencia como desarrollador.
+Consolidar mi experiencia como desarrollador backend.
 
-Profundizar en el uso de bases de datos relacionales y patrones de diseño.
+Profundizar en bases de datos relacionales y patrones de diseño.
 
-Desarrollar proyectos más complejos orientados a microservicios y arquitectura limpia.
+Desarrollar proyectos orientados a microservicios y arquitectura limpia.
 
-Experiencia laboral relevante
+Construir soluciones escalables y de calidad que aporten valor real.
 
-Experiencia en desarrollo de software a través de proyectos académicos y personales publicados en GitHub.
+Experiencia relevante
 
-Realización de etapa productiva como desarrollador en Thomas Greg & Sons (TPS), donde pongo en práctica habilidades técnicas en proyectos reales.
+Desarrollador en formación en Thomas Greg & Sons (TPS), aplicando habilidades técnicas en proyectos reales.
+
+Desarrollo de proyectos académicos y personales publicados en GitHub, fortaleciendo buenas prácticas de código, análisis y diseño.
 
 Contacto
 
