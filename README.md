@@ -1,20 +1,20 @@
 Jonnathan Segura
 
-Soy desarrollador de software en formación con enfoque en Java y desarrollo backend. Actualmente fortalezco mis habilidades en lógica de programación, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
+Desarrollador de software en formación. Actualmente fortalezco mis habilidades en lógica de programación, programacion en lenguajes como java y python, estructuras de datos, desarrollo de APIs con Spring Boot y buenas prácticas de ingeniería. Me caracterizo por la disciplina, el aprendizaje continuo y la capacidad de asumir nuevos retos técnicos.
 
-Busco consolidar mi experiencia como desarrollador backend y aportar valor a proyectos donde la calidad del código, la organización y la claridad técnica sean fundamentales.
+Busco consolidar mi experiencia como desarrollador y aportar valor a proyectos donde la calidad del código, la organización y la claridad técnica sean fundamentales.
 
 Tecnologías
 
 Java 17
+
+Python
 
 Spring Boot
 
 Git y GitHub
 
 Programación orientada a objetos
-
-Gradle
 
 SQL básico
 
@@ -52,25 +52,17 @@ Desarrollador de software en formación, con experiencia práctica en proyectos 
 
 Objetivos profesionales
 
-Consolidar experiencia como desarrollador backend con Java y Spring Boot.
+Consolidar mi experiencia como desarrollador.
 
 Profundizar en el uso de bases de datos relacionales y patrones de diseño.
 
 Desarrollar proyectos más complejos orientados a microservicios y arquitectura limpia.
 
-Certificaciones
-
-Formación en análisis y desarrollo de software (SENA actualmente)
-
-Metodología de la programación de sistemas informáticos (SENA)
-
-Otros cursos complementarios en progreso
-
 Experiencia laboral relevante
 
 Experiencia en desarrollo de software a través de proyectos académicos y personales publicados en GitHub.
 
-Realización de etapa productiva como desarrollador en Thomas Greg and Sons (TPS), donde pongo en práctica habilidades técnicas en proyectos reales.
+Realización de etapa productiva como desarrollador en Thomas Greg & Sons (TPS), donde pongo en práctica habilidades técnicas en proyectos reales.
 
 Contacto
 
