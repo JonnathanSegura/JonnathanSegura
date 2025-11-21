@@ -50,6 +50,6 @@ LinkedIn: https://www.linkedin.com/in/jonnathan-rosero-segura-489062274
 
 GitHub: https://github.com/JonnathanSegura
 
-Correo: (jonnathansegura2404@gmail.com)
+Correo: jonnathansegura2404@gmail.com
 
  
