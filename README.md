@@ -32,7 +32,7 @@ Manejo de datos
 
 📫 Contacto
 
-LinkedIn: (link)
+LinkedIn: https://www.linkedin.com/in/jonnathan-rosero-segura-489062274/
 
 Email: jonnathansegura2404@gmail.com
  
