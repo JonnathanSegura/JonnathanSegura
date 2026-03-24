@@ -1,8 +1,8 @@
-👨‍💻 Jonnathan Rosero Segura
+Jonnathan Rosero Segura
 
 Desarrollador de software junior enfocado en análisis de datos y desarrollo backend.
 
-🚀 Tecnologías
+Tecnologías
 
 Java (Spring Boot)
 
@@ -12,7 +12,7 @@ SQL
 
 Git & GitHub
 
-📌 Actualmente aprendiendo
+Actualmente aprendiendo
 
 Análisis de datos
 
@@ -20,7 +20,7 @@ Arquitectura limpia
 
 Microservicios
 
-📂 Proyectos
+Proyectos
 
 Este perfil contiene proyectos académicos y personales donde aplico:
 
@@ -30,7 +30,7 @@ Desarrollo de APIs
 
 Manejo de datos
 
-📫 Contacto
+Contacto
 
 LinkedIn: https://www.linkedin.com/in/jonnathan-rosero-segura-489062274/
 
