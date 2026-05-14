@@ -1,6 +1,6 @@
 # Hola, soy Jonnathan Rosero Segura
 
-💻 Desarrollador de Software | 📈 Generación de Clientes | 🤖 Automatización con IA  
+💻 Desarrollador de Software | 📈 Marketing Digital | 🤖 Automatización con IA  
 
 ---
 
@@ -32,12 +32,13 @@ Crear soluciones que **aumenten ventas, optimicen procesos y escalen negocios de
 - Java | Python  
 - Spring Boot  
 - APIs REST  
-- SQL  
+- SQL
+ 
 
 ### 📈 Marketing Digital & Growth
 - Meta Ads | Google Ads | TikTok Ads | LinkedIn Ads  
 - Google Analytics | Tag Manager  
-- Tracking y píxeles  
+- Tracking y píxeles - HubSpot  
 
 ### 🤖 Automatización & Data
 - Automatización con IA  
@@ -94,7 +95,8 @@ No solo desarrollo software.
 
 ## 🚀 Actualmente enfocado en
 
-- Automatización de procesos con IA  
+- Marketing Digital y Growth
+- Automatización de procesos con IA 
 - Desarrollo backend escalable  
 - Sistemas de generación de clientes  
 
