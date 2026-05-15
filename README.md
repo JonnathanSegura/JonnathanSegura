@@ -87,8 +87,8 @@ No solo desarrollo software.
 
 ## 📫 Contacto
 
-📧 Email: jonnathansegura2404@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jonnathanroserosegura/  
+📧 Email:jonnathansegura2404@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/jonnathansegura/ 
 💻 GitHub: https://github.com/JonnathanSegura  
 
 ---
