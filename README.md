@@ -1,4 +1,4 @@
-# Hola, soy Jonnathan Rosero Segura
+# Hola, soy Jonnathan Segura
 
 💻 Desarrollador de Software | 📈 Marketing Digital | 🤖 Automatización con IA  
 
