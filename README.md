@@ -4,7 +4,7 @@
 
 ---
 
-## Soy desarrollador de software enfocado en ayudar a empresas a **generar clientes y automatizar sus procesos comerciales** mediante tecnología.
+## Soy desarrollador de software enfocado en ayudar empresas a **generar clientes y automatizar sus procesos comerciales** mediante tecnología.
 
 Construyo sistemas que integran:
 - Backend (Java, Spring Boot)
