@@ -107,18 +107,19 @@ Complemento este perfil con experiencia previa como **desarrollador Backend** (A
 ## 🎓 Formación académica
 
 - **Tecnólogo en Análisis y Desarrollo de Software** — SENA · 2023–2026
-- **Metodología de la Programación de Sistemas Informáticos** — SENA · 2025–actualidad
 
 ### Formación complementaria y certificaciones
 
-- **Misión TIC 2022 — Desarrollo de Aplicaciones Web** — Universidad Autónoma de Bucaramanga · 2022
-- **Misión TIC 2022 — Programación Básica con Java** — Universidad Sergio Arboleda · 2022
-- **Misión TIC 2022 — Fundamentos de Programación con Python** — Universidad Sergio Arboleda · 2022
-- **Programar en Python** — Meta (Coursera) · 2026
+- **Taller de Figma** — Academia Desafío Latam · 2025
+- **Metodología de la Programación de Sistemas Informáticos** — SENA · 2025
+- **Programar en Python** — Meta (Coursera) · 2025
 - **Curso Profesional de React** — Código Facilito · 2024
 - **Aprender a Programar con Python** — Universidad EAN · 2023
 - **Programación Básica** — Platzi · 2023
-- **Aprende a Diseñar una Página Web** — Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá · 2022
+- **Misión TIC 2022 — Desarrollo de Aplicaciones Web** — Universidad Autónoma de Bucaramanga · 2022
+- **Misión TIC 2022 — Programación Básica con Java** — Universidad Sergio Arboleda · 2022
+- **Misión TIC 2022 — Fundamentos de Programación con Python** — Universidad Sergio Arboleda · 2022
+- **Aprende a Diseñar una Página Web** — Cámara de Comercio de Bogotá · 2022
 - **English Dot Works Beginner (inglés)** — SENA · 2022
 
 ## 🧩 Competencias clave
