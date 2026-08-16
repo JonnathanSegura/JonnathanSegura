@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jonnathan Segura 👋
+# Jonnathan Rosero Segura 👋
 
 ### Análisis de Datos · Automatización con IA · Desarrollo de Software · Marketing Digital & Growth
 
