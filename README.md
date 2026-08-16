@@ -60,7 +60,7 @@ Complemento este perfil con experiencia previa como **desarrollador Backend** (A
 ## 💼 Experiencia profesional
 
 ### Líder de Marketing Digital y Growth (Datos, IA y Automatización) — Clínica Veterinaria Dover
-*Abril 2026 – Actualidad · Bogotá D.C. · Híbrido*
+*Mayo 2026 – Actualidad · Bogotá D.C. · Híbrido*
 
 - **Sistema Documental Vivo:** diseño y lidero la construcción de una base documental estructurada en más de 100 capítulos (auditorías, KPIs, SOPs, roadmaps y estrategias), utilizada como fuente única de verdad del negocio y como base de entrenamiento para agentes de IA propios.
 - **Bases de conocimiento para agentes de IA:** extraje, limpié y clasifiqué conversaciones reales de WhatsApp Business y Kommo CRM para construir bases de conocimiento (Bot Comercial Dover, HUBU), mapeando más de 18 intenciones de usuario, objeciones reales, variables clave y flujos conversacionales completos.
